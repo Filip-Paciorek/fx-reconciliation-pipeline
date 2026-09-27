@@ -1,0 +1,15 @@
+transaction_id,booking_date,entity_code,partner_name,currency,amount_foreign,budget_rate_pln
+TXN-8001,2024-07-01,LPP_DE,Berlin Logistics GmbH,EUR,14200.00,4.30
+TXN-8002,2024-07-02,LPP_UK,London Retail Holdings,GBP,8500.00,5.10
+TXN-8003,2024-07-05,LPP_US,NY Sourcing Inc,USD,31000.00,3.95
+TXN-8004,2024-07-12,LPP_DE,Hamburg Distro AG,EUR,45000.00,4.30
+TXN-8005,2024-07-20,LPP_US,US Cotton Supply Co,USD,125000.00,3.95
+TXN-8006,2024-08-01,LPP_DE,Munich Mall Sublease,EUR,8900.00,4.30
+TXN-8007,2024-08-05,LPP_UK,Oxford St Retail Ltd,GBP,22000.00,5.10
+TXN-8008,2024-08-15,LPP_US,Global Logistics Corp,USD,64000.00,3.95
+TXN-8009,2024-08-22,LPP_DE,Berlin Logistics GmbH,EUR,18300.00,4.30
+TXN-8010,2024-09-02,LPP_UK,London Retail Holdings,GBP,12400.00,5.10
+TXN-8011,2024-09-10,LPP_US,NY Sourcing Inc,USD,42000.00,3.95
+TXN-8012,2024-09-16,LPP_DE,Hamburg Distro AG,EUR,51000.00,4.30
+TXN-8013,2024-09-23,LPP_US,US Cotton Supply Co,USD,88000.00,3.95
+TXN-8014,2024-09-30,LPP_UK,Edinburgh Logistics,GBP,15500.00,5.10
