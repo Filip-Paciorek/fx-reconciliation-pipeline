@@ -27,16 +27,16 @@ Manual FX rate entries introduce significant operational variance compared to of
 ---
 
 ### Project Structure
-├── data/
-│   ├── raw/
-│   │   ├── nbp_rates_q3_2024.csv
-│   │   └── transactions_q3_2024.csv
-│   └── clean/
-│       └── transactions_matched.csv
-├── outputs/
-│   └── fx_variance_dumbbell.png
-├── src/
-│   └── fx_reconciliation.py
-└── README.md
+    ├── data/
+    │   ├── raw/
+    │   │   ├── nbp_rates_q3_2024.csv
+    │   │   └── transactions_q3_2024.csv
+    │   └── clean/
+    │       └── transactions_matched.csv
+    ├── outputs/
+    │   └── fx_variance_dumbbell.png
+    ├── src/
+    │   └── fx_reconciliation.py
+    └── README.md
 ---
 *Note: All data used in this project was synthetically generated for demonstration and testing purposes.*
